@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayush Verma</title>
+    <link>https://Ayushverma8.github.io/</link>
+    <description>Recent content on Ayush Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://Ayushverma8.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Hugo</title>
+      <link>https://Ayushverma8.github.io/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Ayushverma8.github.io/posts/about/</guid>
+      <description>This theme is created based on hugo-coder.
+I made it possible to tell yourself more by my change.
+Please see &amp;ldquo;FeaturesOfCoderPortfolio&amp;rdquo; in the post about the change. Regarding other demo contents, it is hugo-coder&amp;rsquo;s thing.
+Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
+Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:</description>
+    </item>
+    
+    <item>
+      <title>About Me👨‍💻</title>
+      <link>https://Ayushverma8.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Ayushverma8.github.io/about/</guid>
+      <description>Hi there, I am Ayush, just another creative geek. This space is dedicated to projects and people I&amp;rsquo;ve worked with. You will proabably come across all cool projects I&amp;rsquo;ve worked on by bunking undergrad class and killing weekends building intresting stuff. I love working with javascript and python. I&amp;rsquo;ve a strong zeal for DevOps too. Bash and python are my bestfriends 👨‍🔧
+When I&amp;rsquo;m not coding, tweeting or pushing pixels, you&amp;rsquo;ll find me cooking, reading books or working out in the park.</description>
+    </item>
+    
+    <item>
+      <title>Competitions</title>
+      <link>https://Ayushverma8.github.io/hackathons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Ayushverma8.github.io/hackathons/</guid>
+      <description>Unilever Datathon - (1&amp;frasl;328) 🏆   Developed prototype to predict Financial metrics (Feb 2019)
+
+Singapore Airlines Challenge - Top 50 ⭐️   Tracking F&amp;amp;B Consumption using Computer Vision (Sep 2018) 
+Coviam Botathon - (2&amp;frasl;210) ⭐   SmartShoppingBot - Used Engati Chatbot Platfrom and designed a NodeJS bot which enables 3D maps and easify Shopping Experience (March 2018)
+
+GUVI Tech Hackathon - (1&amp;frasl;328) 🏆   Decentralized application on Ethereum blockchain (Apr 2018)</description>
+    </item>
+    
+  </channel>
+</rss>
